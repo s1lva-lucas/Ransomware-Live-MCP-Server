@@ -1,0 +1,11 @@
+# MCP (Model Context Protocol) server framework
+mcp>=1.0.0
+
+# HTTP client for API requests
+httpx>=0.24.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Optional but recommended for better async performance
+anyio>=3.0.0
